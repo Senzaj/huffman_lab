@@ -1,2 +1,2 @@
-# sql_lab
-sequence of sql commands for university task
+# Huffman 
+Huffman coding algorithm for university task
